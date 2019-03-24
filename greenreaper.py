@@ -1,5 +1,5 @@
-#TOOLS DDOS BY AMRiezz
-#Apa-liat liat tod
+#TOOLS DDOS BY ZliZer
+#Apa-liat liat thod
 #cuman tools sederhana
 import time
 import socket
